@@ -1,4 +1,3 @@
-```python
 # # # test.
 '''
  * Complete the 'oddNumbers' function below.
@@ -78,4 +77,3 @@ def minSum(num, k):
 
 # returns Array ( [0] => 5 [1] => 10 [2] => 4 )
 print(minSum([10, 20, 7], 4))
-```
