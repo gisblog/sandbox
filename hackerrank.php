@@ -1,4 +1,3 @@
-```php
 <?php
 # # # test.
 /*
@@ -81,4 +80,3 @@ function minSum($num, $k) {
 }
 
 print_r(minSum([10, 20, 7], 4)); # returns Array ( [0] => 5 [1] => 10 [2] => 4 )
-```
